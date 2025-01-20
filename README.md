@@ -57,4 +57,4 @@ Hehe~ another cutie has been caught.
 
 [![](https://img.shields.io/github/followers/Ailiciya?label=Followers&style=social)](https://github.com/Ailiciya)
 [![](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.gg/YZN6B66ARX)
-[![](https://img.shields.io/badge/Steam-1a6a98?logo=steam&logoColor=white)](https://steamcommunity.com/id/Ailiciya/)
+[![](https://img.shields.io/badge/Steam-1a6a98?logo=steam&logoColor=white)](https://steamcommunity.com/id/kevinkyun/)
