@@ -51,7 +51,7 @@ Hehe~ another cutie has been caught.
 ```
 ## **📫 Contact**
 <a href="https://github.com/Ailiciya"><img align="right" width="100" src="https://github.com/Ailiciya/Elysia/blob/main/img/Ely%205.png" /></a>
-**Please Contact me on Discord for a quick response:** [Kevin](https://discordapp.com/users/329766075778465793)
+**Please Contact me on Discord for a quick response:** [Kevin](https://discord.com/users/329766075778465793)
 
 **You can also email me here:** kevinirawan91@gmail.com
 
